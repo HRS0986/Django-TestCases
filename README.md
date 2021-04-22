@@ -13,4 +13,4 @@
 
 7. To Run Functional Tests,
    + Download Web Driver For Your Browser And Put It In The `functional_tests` Folder
-   + + Run Tests : `python manage.py test functional_tests`
+   + Run Tests : `python manage.py test functional_tests`
