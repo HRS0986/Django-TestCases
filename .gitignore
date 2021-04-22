@@ -1,3 +1,5 @@
 budgetenv
 .idea
 db.sqlite3
+functional_tests/chromedriver.exe
+functional_tests/__pycache__
