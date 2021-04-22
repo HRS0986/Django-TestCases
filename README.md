@@ -9,4 +9,8 @@
     + Run Server : `python manage.py runserver`
     + Run Tests : `python manage.py test budgetApp`
    
-7. Download Web Driver For Your Browser And Put It In The `functional_tests` Folder
+
+
+7. To Run Functional Tests,
+   + Download Web Driver For Your Browser And Put It In The `functional_tests` Folder
+   + + Run Tests : `python manage.py test functional_tests`
